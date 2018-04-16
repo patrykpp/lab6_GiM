@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\OpenDoor.js">
+    <Files>
+      <File FileName="Assets\Scripts\AnimationControl.cs" Line="14" Column="35" />
+      <File FileName="Assets\Scripts\AnimationControl2.cs" Line="14" Column="34" />
+      <File FileName="Assets\Scripts\OpenDoor.js" Line="46" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
